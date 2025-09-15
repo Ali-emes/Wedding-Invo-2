@@ -1,0 +1,86 @@
+<!doctype html>
+<html lang="kk">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <!-- Title and Description -->
+    <title>🔔 Берік & Гүлжауһардың тойы - Тойға шақыру 🔔</title>
+    <meta
+      name="title"
+      content="🔔 Берік & Гүлжауһардың тойы - Тойға шақыру 🔔"
+    />
+    <meta
+      name="description"
+      content="Берік & Гүлжауһардың той салтанатына қош келдіңіз! 📅 Күні: [Күнді жазыңыз] 📍 Орны: [Мекен-жайды жазыңыз] 🎉"
+    />
+
+    <!-- Open Graph / Facebook / WhatsApp / Instagram -->
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://toygashahiru.vercel.app/" />
+    <meta property="og:title" content="🔔 Берік & Гүлжауһардың тойы 🔔" />
+    <meta
+      property="og:description"
+      content="Біздің ерекше күнімізде бізбен бірге болыңыз! 💕 Сізді той салтанатына шақырамыз 🌸"
+    />
+    <meta
+      property="og:image"
+      content="https://toygashahiru.vercel.app/images/3.jpg"
+    />
+    <meta
+      property="og:image:secure_url"
+      content="https://toygashahiru.vercel.app/images/3.jpg"
+    />
+    <meta property="og:image:type" content="image/jpeg" />
+    <meta property="og:image:width" content="1200" />
+    <meta property="og:image:height" content="630" />
+    <meta property="og:image:alt" content="Берік & Гүлжауһардың той шақыруы" />
+    <meta property="og:locale" content="kk_KZ" />
+    <meta property="og:site_name" content="Берік & Гүлжауһар тойы" />
+
+    <!-- Twitter Card -->
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:url" content="https://toygashahiru.vercel.app/" />
+    <meta name="twitter:title" content="🔔 Берік & Гүлжауһардың тойы 🔔" />
+    <meta
+      name="twitter:description"
+      content="Берік & Гүлжауһардың той салтанатына қош келдіңіз! Біздің ерекше күнімізде бізбен бірге болыңыз 🎉"
+    />
+    <meta
+      name="twitter:image"
+      content="https://toygashahiru.vercel.app/images/3.jpg"
+    />
+
+    <!-- Canonical -->
+    <link rel="canonical" href="https://toygashahiru.vercel.app/" />
+
+    <!-- Theme Color for mobile -->
+    <meta name="theme-color" content="#d4af37" />
+
+    <!-- Icons -->
+    <link
+      rel="apple-touch-icon"
+      sizes="180x180"
+      href="/images/apple-touch-icon.png"
+    />
+    <link rel="icon" type="image/x-icon" href="/favicon.ico" />
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png" />
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png" />
+    <script type="module" crossorigin src="/assets/index-U5wniiZa.js"></script>
+    <link rel="stylesheet" crossorigin href="/assets/index-Uo1AtL-F.css">
+  </head>
+
+  <body>
+    <div id="root">
+      <h1>Берік & Гүлжауһардың тойына қош келдіңіз!</h1>
+      <p>Күні: [Күнді жазыңыз]</p>
+      <p>Орны: [Мекен-жайды жазыңыз]</p>
+      <img
+        src="https://toygashahiru.vercel.app/images/3.jpg"
+        alt="Берік & Гүлжауһардың той суреті"
+        style="max-width: 100%; height: auto"
+      />
+    </div>
+
+  </body>
+</html>
